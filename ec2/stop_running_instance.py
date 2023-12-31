@@ -30,7 +30,6 @@ def stop_running_instance():
     
 
 
-stop_running_instance()
 
 if __name__ == 'main':
     stop_running_instance()
